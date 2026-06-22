@@ -1,0 +1,3 @@
+# Default owner for everything, until per-item owners are added.
+# (GitHub also reads CODEOWNERS from .github/ or docs/; this root copy is canonical.)
+* @oskar617-cmyk
